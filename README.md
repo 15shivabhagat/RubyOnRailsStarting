@@ -7,7 +7,7 @@ Things you may want to cover:
 
 * "CRUD - alpha-blog project - Creating table of article-Understand Migration"
 
-*  Understanding migration 
+*  Understanding migration and migration file
 
 
 
