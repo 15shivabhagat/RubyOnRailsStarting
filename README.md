@@ -5,9 +5,5 @@ application up and running.
 
 Things you may want to cover:
 
-* Add about method in pages_controller.rb
-
-* updated routes.rb 
-
-* Add about Page 
+* Generate using Scaffold Generator
 
