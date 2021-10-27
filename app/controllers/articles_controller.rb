@@ -1,8 +1,10 @@
 class ArticlesController < ApplicationController
 
     def show 
-        #byebug :- It will use to debug
         @article = Article.find(params[:id])
     end
 
+    def index
+        @articles = Article.all
+    end
 end
