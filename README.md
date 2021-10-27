@@ -9,5 +9,12 @@ Things you may want to cover:
 
 *  Understanding migration and migration file
 
+* Add
+
+* Read
+
+* Update
+
+* Delete
 
 
