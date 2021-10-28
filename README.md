@@ -5,9 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* The front - end : Destroying (deleting) article
+* DRY code : Don't Repeat Yourself!
 
-REST - Rrpresentational State Transfer - Mapping HTTP verbs (get, post, put/patch, delete) to CRUD actions
-
-resources provides REST- ful routes to RAils resources
-
+- re-factoring
+- extract away the redundencies in code
