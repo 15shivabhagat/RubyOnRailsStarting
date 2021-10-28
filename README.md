@@ -5,5 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* The front - end : Error messages and flash helper (hash)
+* The front - end : Destroying (deleting) article
+
+REST - Rrpresentational State Transfer - Mapping HTTP verbs (get, post, put/patch, delete) to CRUD actions
+
+resources provides REST- ful routes to RAils resources
 
