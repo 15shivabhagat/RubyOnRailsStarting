@@ -5,16 +5,5 @@ application up and running.
 
 Things you may want to cover:
 
-* "CRUD - alpha-blog project - Creating table of article-Understand Migration"
-
-*  Understanding migration and migration file
-
-* Add
-
-* Read
-
-* Update
-
-* Delete
-
+* The front - end : Error messages and flash helper (hash)
 
