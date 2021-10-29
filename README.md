@@ -5,7 +5,4 @@ application up and running.
 
 Things you may want to cover:
 
-* DRY code : Don't Repeat Yourself!
-
-- re-factoring
-- extract away the redundencies in code
+- Building Home Page - Using CSS and Html
