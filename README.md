@@ -5,4 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-- Building Home Page - Using CSS and Html
+- Building Article Listing Page - Using CSS and Html and Bootstrap framework
+
+
+ 
