@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-- Building Article Listing Page - Using CSS and Html and Bootstrap framework
+- Building Create Form Page - Using CSS and Html and Bootstrap framework
 
 
  
