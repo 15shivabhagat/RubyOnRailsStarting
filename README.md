@@ -5,9 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-- Creating a User table in db and generate new migration and model file for user
+- Apply Validation into file: user.rb in app/models/
 
-- Implementing CRUD operation on User table using Rails Console
+    - username must be present and unique, minimum 3 and maximum 25
+    - email address must be present and unique, maximum 105
+    - email must be valid email format, check email with regex (Regular Expression)(/\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i)
 
 
 
