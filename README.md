@@ -5,7 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-- Style Show Page- Styling of show page using bootstrap
+- Styling of project 
+ 
+ Updated Navigation bar, added create article link
+
+ - Completed Section-5 : Styling for your rails application
 
 
 
