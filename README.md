@@ -5,11 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-- Styling of project 
- 
- Updated Navigation bar, added create article link
+- Creating a User table in db and generate new migration and model file for user
 
- - Completed Section-5 : Styling for your rails application
+- Implementing CRUD operation on User table using Rails Console
 
 
 
