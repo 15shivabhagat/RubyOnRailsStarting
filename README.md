@@ -5,11 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
-- User Signup: 
-    - Adding route to get access 
-    - Create users_controller.rb
-    - Create associated view for this
-
+- User Show Page
+    - Add users show page with profile pic and articles
     
 
 
