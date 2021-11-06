@@ -5,9 +5,10 @@ application up and running.
 
 Things you may want to cover:
 
-- User Show Page
-    - Add users show page with profile pic and articles
-    
+- User Index or Listing page
+    - Build a users listing page wich shows all users of the app
+    - Clean up layout
+    - adding links to redirect or travel between page 
 
 
 
