@@ -5,10 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
-- Sessions
-    - Creating and destroying user session
-    - add code in sessions_controller.rb for create and destroy method
-    - also add link for login and logout in navigation partial
+- Authentication helper methods
+    - Add helper method to use in view
 
 
 
