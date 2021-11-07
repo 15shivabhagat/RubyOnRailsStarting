@@ -5,9 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
-- Controller Restriction
-    - Add restriction for articles at controller level
-    - Add same restrictions for user at controller level for users
+- Delete user accounts
+    - Add ability of users to delete their own account
 
 
 
