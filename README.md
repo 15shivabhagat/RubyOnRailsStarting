@@ -5,10 +5,10 @@ application up and running.
 
 Things you may want to cover:
 
-- User Index or Listing page
-    - Build a users listing page wich shows all users of the app
-    - Clean up layout
-    - adding links to redirect or travel between page 
+- Sessions
+    - Creating and destroying user session
+    - add code in sessions_controller.rb for create and destroy method
+    - also add link for login and logout in navigation partial
 
 
 
