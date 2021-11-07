@@ -5,8 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-- Authentication helper methods
-    - Add helper method to use in view
+- Controller Restriction
+    - Add restriction for articles at controller level
+    - Add same restrictions for user at controller level for users
 
 
 
