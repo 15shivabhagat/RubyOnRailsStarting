@@ -5,9 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-- Delete user accounts
-    - Add ability of users to delete their own account
-
+- Adding Admin 
+    - Add admin user access through views and controllers
+    - updating files to get accesss for edit and delete user or article for admin
 
 
 
