@@ -5,9 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-- Adding Admin 
-    - Add admin user access through views and controllers
-    - updating files to get accesss for edit and delete user or article for admin
+- Completed Section-6 : Assosiation and authentication
+
+
 
 
 
