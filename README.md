@@ -5,10 +5,10 @@ application up and running.
 
 Things you may want to cover:
 
-- Create category table and model
-    - write test cases to check name in category table
-    - added validation on category.rb file in models folder
-
+- Create category from browser:
+    - Add functional test to test creation of categories from front-end
+    - (uncomment create test from file: categories_controller_test.rb)
+    - Add code in new and create method
 
 
 
