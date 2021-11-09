@@ -5,7 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-- Completed Section-6 : Assosiation and authentication
+- Create category table and model
+    - write test cases to check name in category table
+    - added validation on category.rb file in models folder
 
 
 
