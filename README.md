@@ -5,11 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-- Create category from browser:
-    - Add functional test to test creation of categories from front-end
-    - (uncomment create test from file: categories_controller_test.rb)
-    - Add code in new and create method
-
+- Integration test: Create category business process
+    - Creating integration testing file and write code to test it
+    - Update controller 
 
 
 
