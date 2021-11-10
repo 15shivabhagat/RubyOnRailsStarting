@@ -1,7 +1,7 @@
 require "test_helper"
 
 class CreateCategoryTest < ActionDispatch::IntegrationTest
-  test "get new category from and create cateegory" do
+  test "get new category form and create cateegory" do
     get "/categories/new"
     assert_response :success
     assert_difference 'Category.count', 1 do
@@ -11,5 +11,16 @@ class CreateCategoryTest < ActionDispatch::IntegrationTest
     follow_redirect!
     assert_response :success
     assert_match "Sports", response.body
+  end
+
+  test "get new category form and reject invalid cateegory submission" do
+    get "/categories/new"
+    assert_response :success
+    assert_no_difference 'Category.count' do
+      post categories_path, params: { category: { name: " " } }
+    end
+    assert_match "errors", response.body
+    assert_select 'div.alert' 
+    assert_select 'h4.alert-heading'
   end
 end
