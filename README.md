@@ -5,5 +5,5 @@ application up and running.
 
 Things you may want to cover:
 
-- Category view updates
-    - Complete category index and show view
+- Edit category name 
+    - Add admin user ability to edit category
