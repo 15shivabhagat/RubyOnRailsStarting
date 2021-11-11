@@ -5,5 +5,5 @@ application up and running.
 
 Things you may want to cover:
 
-- Add Category names to articles
-    - Add Category names into article show page, article listing page and user profile page under article
+- Category view updates
+    - Complete category index and show view
